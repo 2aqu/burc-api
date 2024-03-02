@@ -1,2 +1,1 @@
-# burc-api
-simple horoscope api and discord bot
+# Horoscope API and Discord Webhook Messager
